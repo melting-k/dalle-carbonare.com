@@ -18,14 +18,14 @@ include 'header.php';
                 <div class="container"> <img src="build/images/logo1.png" alt="ATELIER Dalle Carbonare"></div>
             </div>
 
-<!--
+
             <div class="bloc-info">
                 <img src="build/images/icone-infos.png" alt="Infos"/>
                 <p>
-                    L'atelier sera fermé <br/> du lundi 22 juillet 2019 <br/> au jeudi 22 août 2019.<br/> Bon été à tous !
+                    L'atelier sera de nouveau<br/> ouvert à partir du 12 mai 2020.<br/> <b>Sur RDV uniquement : 06 16 12 01 92.</b>
                 </p>
             </div>
--->
+
 
             <div class="visual-bottom">
                 <div class="container">
