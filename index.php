@@ -22,7 +22,12 @@ include 'header.php';
             <div class="bloc-info">
                 <img src="build/images/icone-infos.png" alt="Infos"/>
                 <p>
-                    L'atelier sera de nouveau<br/> ouvert à partir du 12 mai 2020.<br/> <b>Sur RDV uniquement : 06 16 12 01 92.</b>
+                    <b>L'atelier est maintenant ouvert seulement sur rendez-vous.</b><br/> 
+                    Vous pouvez nous joindre au 05 61 12 46 46<br/>
+                    du mardi au vendredi, de 13h30 à 18h, <br/>
+                    et le samedi de 10h à 16h.<br>
+                    Nous sommes également joignables au 06 16 12 01 92.<br/>
+                    Merci de votre compréhension, au plaisir de vous voir<br/> à l'atelier prochainement.
                 </p>
             </div>
 
