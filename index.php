@@ -18,7 +18,24 @@ include 'header.php';
                 <div class="container"> <img src="build/images/logo1.png" alt="ATELIER Dalle Carbonare"></div>
             </div>
 
-
+<?php
+    $current_time = time();
+    $date_max = strtotime("2021-02-28T08:00:00");
+    if($current_time < $date_max)
+    {
+?>
+            <div class="bloc-info">
+                <img src="build/images/icone-infos.png" alt="Infos"/>
+                <p>
+                    <b>L'atelier sera fermé du 22 au 27 Février inclus</b><br/> 
+                    Merci de votre compréhension.
+                </p>
+            </div>
+<?php
+    }
+    else
+    {
+?>
             <div class="bloc-info">
                 <img src="build/images/icone-infos.png" alt="Infos"/>
                 <p>
@@ -30,7 +47,9 @@ include 'header.php';
                     Merci de votre compréhension, au plaisir de vous voir<br/> à l'atelier prochainement.
                 </p>
             </div>
-
+<?php
+    }
+?>
 
             <div class="visual-bottom">
                 <div class="container">
