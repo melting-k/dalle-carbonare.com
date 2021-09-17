@@ -26,7 +26,6 @@
                             <li> <a href="tel:+330561124646">Tél. +33 (0) 5 61 12 46 46</a></li>
                             <li> <a href="tel:+330561125368">Fax. +33 (0) 5 61 12 53 68</a></li>
                             <li> <a href="tel:+330616120192">Port. +33 (0) 6 16 12 01 92</a></li>
-                            <li> <a href="mailto:contact@violon-toulouse.com">contact@violon-toulouse.com</a></li>
                         </ul>
                     </div>
                     <div class="col">

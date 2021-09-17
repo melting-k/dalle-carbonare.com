@@ -26,7 +26,6 @@
                             <li> <a href="tel:+330561124646">电话 +33 (0) 5 61 12 46 46</a></li>
                             <li> <a href="tel:+330561125368">传真 +33 (0) 5 61 12 53 68</a></li>
                             <li> <a href="tel:+330616120192">手机 +33 (0) 6 16 12 01 92</a></li>
-                            <li> 电子邮件 <a href="mailto:contact@violon-toulouse.com">contact@violon-toulouse.com</a></li>
                         </ul>
                     </div>
                     <div class="col">
