@@ -38,10 +38,7 @@ include 'header.php';
 ?>
     <div class="bloc-info">
         <img src="build/images/icone-infos.png" alt="Infos" />
-        <p>
-            L'atelier sera fermé le samedi 16 avril. Merci de votre compréhension.<br /> <br />
-
-            <b>L'atelier est maintenant ouvert seulement sur rendez-vous.</b><br />
+        <p><b>L'atelier est maintenant ouvert seulement sur rendez-vous.</b><br />
             Vous pouvez nous joindre au 05 61 12 46 46<br />
             du mardi au vendredi, de 13h30 à 18h, <br />
             et le samedi de 10h à 16h.<br>
