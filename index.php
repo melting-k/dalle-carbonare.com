@@ -24,19 +24,19 @@ include 'header.php';
     if($current_time < $date_max)
     {
 ?>
-    <div class="bloc-info">
+    <!-- <div class="bloc-info">
         <img src="build/images/icone-infos.png" alt="Infos" />
         <p>
             <b>L'atelier sera fermé du 22 au 27 Février inclus</b><br />
             Merci de votre compréhension.
         </p>
-    </div>
+    </div> -->
     <?php
     }
     else
     {
 ?>
-    <div class="bloc-info">
+    <!-- <div class="bloc-info">
         <img src="build/images/icone-infos.png" alt="Infos" />
         <p><b>Nous serons fermés le jeudi 26, le vendredi 27 et le samedi 28.</b><br /><br />
             <b>L'atelier est maintenant ouvert seulement sur rendez-vous.</b><br />
@@ -46,7 +46,7 @@ include 'header.php';
             Nous sommes également joignables au 06 16 12 01 92.<br />
             Merci de votre compréhension, au plaisir de vous voir<br /> à l'atelier prochainement.
         </p>
-    </div>
+    </div> -->
     <?php
     }
 ?>
